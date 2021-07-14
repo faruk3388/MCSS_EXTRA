@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+html{
+    font-size: 10px;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 98%;
+    margin: 0 auto;
+}
+
+
+
+
+.header-section{}
+.header-body{
+    background: #0890F3;
+    text-align: center;
+    padding: 3rem;
+    color: #fff;
+    border-radius: 1rem;
+}
+.header-body h1 {
+    font-size: 4rem;
+    font-family: 'Permanent Marker', cursive;
+}
+.header-body h2{
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+
+
+
+
+
+.main-section {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.col-70{
+    width: 70%;
+}
+.main-left, .main-right{
+    box-shadow: 1px 3px 5px #000;
+    padding: 2rem;
+}
+.all{
+    border: 0.1rem solid #fff;
+    border-radius: 1rem;
+}
+.demo h2{
+    color: #0890F3;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.first-text{
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+.last-text{
+    font-size: 1.3rem;
+}
+
+.beauty {
+    margin-top: 3rem;
+    background: #f4f4f4;
+}
+
+.beauty h2 {
+    color: #0890F3;
+    font-size: 2rem;
+    background: #bfddf3;
+    padding: .7rem;
+}
+
+img.beauty-img {
+    width: 30%;
+    height: 25rem;
+    padding-left: 1rem;
+}
+.beuty-sec {
+    display: flex;
+    padding: 1rem;
+}
+.beauty p {
+    font-size: 1.5rem;
+    width: 100%;
+    padding-left: 1rem;
+    text-align: justify;
+}
+
+.p p {
+    padding-bottom: 1rem;
+}
+.p a {
+    color: #0890F3;
+}
+
+
+
+.main-right {
+    margin-left: 2rem;
+}
+.col-30 {
+    width: 29%;
+}
+.menu{}
+.menu ul{}
+.menu ul li {
+    background: #f4f4f4;
+    margin-bottom: .9rem;
+    border-left: .7rem solid #999;
+}
+.menu ul li a {
+    color: #0890F3;
+    padding-left: 1rem;
+    font-size: 1.3em;
+    line-height: 2.8rem;
+    font-weight: 400;
+}
+
+.contact{
+    border: .1rem dashed #999;
+    padding: 2rem;
+    background: #f4f4f4;
+    margin-top: 3rem;
+}
+.contact-title{
+    font-size: 2rem;
+    color: #999;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.contact ul{}
+.contact ul li{
+    color: #999;
+    margin-bottom: 1rem;
+}
+.contact ul li a {
+    font-size: 1.4rem;
+    color: #000;
+    cursor: default;
+    font-weight: 300;
+}
+
+.contact-text {
+    font-size: 1.2rem;
+}
+
+
+
+
